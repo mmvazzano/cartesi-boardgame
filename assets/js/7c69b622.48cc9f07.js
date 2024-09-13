@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[1254],{2347:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/cartesi-boardgame/blog/tags/docusaurus","allTagsPath":"/cartesi-boardgame/blog/tags","count":4}')}}]);

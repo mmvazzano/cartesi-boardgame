@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[7808],{7633:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/cartesi-boardgame/blog/tags/hola","allTagsPath":"/cartesi-boardgame/blog/tags","count":1}')}}]);
